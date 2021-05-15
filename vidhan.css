@@ -1,0 +1,41 @@
+h1{
+
+    color:red;
+
+}
+/*{
+    
+    border:solid;
+    border-width: 20px;
+    display: flex;
+    justify-content:space-between;
+
+}*/
+.vidhan_webpage{
+
+    background-color: aqua;
+    display: flex;
+   justify-content: space-between;
+
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.trex{
+
+display: flex;
+justify-content:space-evenly;
+
+
+}
+p,h2{
+
+text-align: center;
+
+}
+
+body{
+
+    background-color: #808080;
+
+}
